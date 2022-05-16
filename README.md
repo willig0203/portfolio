@@ -8,7 +8,7 @@ HTML
 CSS
 
 ## Website
-https://willig0203.github.io/ChallengeWeek02/
+https://willig0203.github.io/portfolio/
 
 ## Contribution
 Made by Gary Williams (Trademark GarywareLLC)
