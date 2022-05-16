@@ -11,4 +11,4 @@ CSS
 https://willig0203.github.io/ChallengeWeek02/
 
 ## Contribution
-Made with ❤️ by [Gary Williams]# portfolio
+Made by Gary Williams (Trademark GarywareLLC)
