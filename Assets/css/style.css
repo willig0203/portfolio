@@ -25,14 +25,13 @@ header {
   position: sticky;
   position: -webkit-sticky;
   top: 0;
-  opacity: 0.8;
+  opacity: 0.85;
     background:
     linear-gradient(to bottom, #fff, transparent) top/5% 32px no-repeat,
     linear-gradient(to top, #fff, transparent) bottom/5% 32px no-repeat,
     url(../images/614-2000x100.jpg) no-repeat;
   background-size: cover;
-  border-bottom-color: var(--primary-color);
-  border-bottom-width: medium;
+ 
   z-index: 9999;
 }
 
