@@ -36,7 +36,7 @@ header {
 header h1 {
   font-weight: bold;
   margin: 0;
-  font-size: 60px;
+  font-size: 55px;
   color: var(--txt-color);
 }
 
@@ -55,7 +55,7 @@ header nav ul {
 header nav ul li a {
   padding: 10px 15px;
   font-weight: lighter;
-  font-size: 1em;
+  font-size: medium;
   text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
 }
 
@@ -88,7 +88,7 @@ header nav ul li a:hover {
 
 .about ul li {
   font-weight: lighter;
-  font-size: 1em;
+  font-size: medium;
   text-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
   margin-top: 50px;
   margin-right: 50px;
@@ -103,7 +103,7 @@ header nav ul li a:hover {
   display: flex;
   flex-wrap: wrap;
   font-weight: lighter;
-  font-size: 1em;
+  font-size: medium;
   text-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
   margin-top: 50px;
   margin-right: 50px;
@@ -115,7 +115,7 @@ header nav ul li a:hover {
   display: flex;
   flex-wrap: wrap;
   font-weight: lighter;
-  font-size: 1em;
+  font-size: medium;
   text-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
   margin-top: 50px;
   margin-right: 50px;
@@ -170,7 +170,7 @@ header nav ul li a:hover {
   flex-wrap: wrap;
   flex-direction: row;
   font-weight: bolder;
-  font-size: 1em;
+  font-size: medium;
   text-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
   margin: 0 20px 20px;
 }
@@ -180,7 +180,7 @@ header nav ul li a:hover {
   flex-wrap: wrap;
   flex-direction: row;
   font-weight: bolder;
-  font-size: 1em;
+  font-size: medium;
   text-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
   margin: 0 20px 20px;
 }
