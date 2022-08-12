@@ -29,7 +29,7 @@ header {
     background:
     linear-gradient(to bottom, #fff, transparent) top/5% 32px no-repeat,
     linear-gradient(to top, #fff, transparent) bottom/5% 32px no-repeat,
-    url(https://i.picsum.photos/id/614/2000/100.jpg) no-repeat;
+    url(../images/614-2000x100.jpg) no-repeat;
   background-size: cover;
   /* background-color: #e5e5f7;
   background: repeating-linear-gradient(-45deg, var(--tertiary-color), var(--tertiary-color) 6.5px, #e5e5f7 6.5px, #e5e5f7 32.5px); */
